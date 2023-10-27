@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thdrmrphy
+- 👀 I’m interested in... playing around with API integrations
+- 🌱 I’m currently learning... how Scouts Australia's Terrain endpoints work
+- 💞️ I’m looking to collaborate on... that 👆
+- 📫 How to reach me... if you know me you know me
